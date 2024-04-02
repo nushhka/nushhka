@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/anushka-dadhich" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/> LinkedIn</a>
+    <a href="https://www.linkedin.com/in/anushka-dadhich" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
