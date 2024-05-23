@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Dadhich</h1>
 <h3 align="center">CSE Sophomore at prestigious IIT Jodhpur</h3>
 
-- 🔭 I’m currently working on [Movie Recommendation System](https://github.com/armangupta910/Movie-Recommendor-System)
-
+- 🔭 I’m currently working on Frontend devlopment
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **b22cs097@iitj.ac.in**
