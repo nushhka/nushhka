@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Dadhich</h1>
-<h3 align="center">CSE Sophomore at prestigious IIT Jodhpur</h3>
+<h3 align="center">CSE Undergrad at prestigious IIT Jodhpur</h3>
 
 - 🔭 I’m currently working on Frontend devlopment
 - 🌱 I’m currently learning **JavaScript**
