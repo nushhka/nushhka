@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Frontend devlopment
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **b22cs097@iitj.ac.in**
+- 📫 How to reach me **anushkakd0505@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
